@@ -402,13 +402,13 @@ main #ourblog .grid{
     padding: calc(var(--margingrid)*2)0;
     border-bottom: 1px solid  #aaa;
 } */
-
+/* 
 main #ourblog .grid article div i{
     color: var(--colorprincipal);
     font-size: 150%;
     border: 1px solid var(--colorprincipal);
     padding: 0.5em;
-}
+} */
 
 main #ourblog .grid article h3{
     font-weight: 700;
